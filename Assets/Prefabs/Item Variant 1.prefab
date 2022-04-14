@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5448618034424603283
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1286791189954360389, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: getPlayerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 11400000, guid: 96b949061c7c90146982c10a20033087, type: 2}
+    - target: {fileID: 1286791189954360389, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: getPlayerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: RaiseEvent
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571698578264998335, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6508760665019451513, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 77972bc94970a2342ab73ab96ab7217e, type: 3}
+    - target: {fileID: 7343847501462710573, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: m_Name
+      value: Item Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9061964119521452873, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: OnDestroyObject.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9061964119521452873, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: OnDestroyObject.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9061964119521452873, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: OnDestroyObject.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 11400000, guid: ed685f8ff6e77c24ca85d66f98a4a10e, type: 2}
+    - target: {fileID: 9061964119521452873, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
+      propertyPath: OnDestroyObject.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c5893bd2bac8afe4788f7fbc86f24de0, type: 3}
